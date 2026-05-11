@@ -1,0 +1,1 @@
+# skillbridge_shared_pattern
